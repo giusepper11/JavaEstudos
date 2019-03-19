@@ -3,11 +3,11 @@ public class Conta {
     private int agencia;
     private int numero;
     private Cliente titular = new Cliente();
-//    String cpf;
-//    String profissao;
-//
+    private static int total = 0;
 
     public Conta(int agencia, int numero) {
+        total++;
+//        System.out.println("o total de contas é " + total);
         this.agencia = agencia;
         this.numero = numero;
         System.out.println("Criando conta");
@@ -71,5 +71,9 @@ public class Conta {
 
     public Cliente getTitular() {
         return titular;
+    }
+
+    public static int getTotal(){
+        return total;
     }
 }
