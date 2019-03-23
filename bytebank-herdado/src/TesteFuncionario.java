@@ -6,6 +6,7 @@ public class TesteFuncionario {
 		
 		
 		Funcionario nico = new Gerente();
+
 		nico.setNome("Nico Steppat");
 		nico.setCpf("223355646-9");
 		nico.setSalario(2600.00);
@@ -18,4 +19,5 @@ public class TesteFuncionario {
 	}
 
 }
+
 
