@@ -2,12 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="522c8a60-66d4-41cb-8299-614d30a423c9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/out/production/bytebank-encapsulado/Cliente.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/bytebank-encapsulado/Conta.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/bytebank-encapsulado/TestaGetSet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/bytebank-encapsulado/TestaValores.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cliente.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Conta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Conta.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TestaValores.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TestaValores.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bytebank-herdado/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../bytebank-herdado/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bytebank-herdado/src/Funcionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/../bytebank-herdado/src/Funcionario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bytebank-herdado/src/FuncionarioTeste.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bytebank-herdado/src/Teste.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bytebank-herdado/src/TesteFuncionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/../bytebank-herdado/src/TesteFuncionario.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,8 +21,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Cliente.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            <state relative-caret-position="140">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
@@ -30,11 +31,7 @@
         <entry file="file://$PROJECT_DIR$/src/Conta.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="280">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
-              <folding>
-                <element signature="e#1280#1281#0" expanded="true" />
-                <element signature="e#1315#1316#0" expanded="true" />
-              </folding>
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
             </state>
           </provider>
         </entry>
@@ -66,8 +63,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -84,6 +79,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -136,7 +133,7 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1652452" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16684435" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -202,19 +199,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Cliente.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        <state relative-caret-position="140">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Conta.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="280">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-          <folding>
-            <element signature="e#1280#1281#0" expanded="true" />
-            <element signature="e#1315#1316#0" expanded="true" />
-          </folding>
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
     </entry>
