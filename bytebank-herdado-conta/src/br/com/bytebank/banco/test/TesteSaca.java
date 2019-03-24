@@ -1,12 +1,17 @@
+package br.com.bytebank.banco.test;
+
+import br.com.bytebank.banco.modelo.Conta;
+import br.com.bytebank.banco.modelo.ContaCorrente;
+
 public class TesteSaca {
     public static void main(String[] args) {
-        ContaCorrente cc = new ContaCorrente(1234,321);
+        Conta cc = new ContaCorrente(1234, 321);
         cc.deposita(1000);
         System.out.println(cc.getSaldo());
-        try{
+        try {
             cc.saca(2000);
             System.out.println(cc.getSaldo());
-        } catch (Exception ex){
+        } catch (Exception ex) {
             System.out.println(ex.getMessage());
         }
 
