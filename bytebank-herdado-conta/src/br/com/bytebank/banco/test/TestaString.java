@@ -6,7 +6,9 @@ public class TestaString {
         System.out.println(nome.toUpperCase());
 
         nome.replace("A","B");
+        char c = 'x';
         System.out.println(nome);
+        System.out.println(c);
         System.out.println(nome.replace("A","B"));
     }
 }

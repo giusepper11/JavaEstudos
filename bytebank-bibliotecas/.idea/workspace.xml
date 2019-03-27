@@ -2,20 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="75c9bcd4-4153-48f1-8928-421d99c0a9ca" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../bytebank-herdado-conta/src/br/com/bytebank/banco/modelo/Tributavel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bytebank-herdado-conta/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../bytebank-herdado-conta/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../bytebank-herdado-conta/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../bytebank-herdado-conta/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bytebank-herdado-conta/src/modelo/CalculadorImpostos.java" beforeDir="false" afterPath="$PROJECT_DIR$/../bytebank-herdado-conta/src/br/com/bytebank/banco/modelo/CalculadorImpostos.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bytebank-herdado-conta/src/modelo/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/../bytebank-herdado-conta/src/br/com/bytebank/banco/modelo/Cliente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bytebank-herdado-conta/src/modelo/Conta.java" beforeDir="false" afterPath="$PROJECT_DIR$/../bytebank-herdado-conta/src/br/com/bytebank/banco/modelo/Conta.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bytebank-herdado-conta/src/modelo/ContaCorrente.java" beforeDir="false" afterPath="$PROJECT_DIR$/../bytebank-herdado-conta/src/br/com/bytebank/banco/modelo/ContaCorrente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bytebank-herdado-conta/src/modelo/ContaPoupanca.java" beforeDir="false" afterPath="$PROJECT_DIR$/../bytebank-herdado-conta/src/br/com/bytebank/banco/modelo/ContaPoupanca.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bytebank-herdado-conta/src/modelo/SaldoInsuficienteException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../bytebank-herdado-conta/src/br/com/bytebank/banco/modelo/SaldoInsuficienteException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bytebank-herdado-conta/src/modelo/SeguroVida.java" beforeDir="false" afterPath="$PROJECT_DIR$/../bytebank-herdado-conta/src/br/com/bytebank/banco/modelo/SeguroVida.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bytebank-herdado-conta/src/modelo/Tributavel.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bytebank-herdado-conta/src/teste/TesteContas.java" beforeDir="false" afterPath="$PROJECT_DIR$/../bytebank-herdado-conta/src/br/com/bytebank/banco/test/TesteContas.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bytebank-herdado-conta/src/teste/TesteSaca.java" beforeDir="false" afterPath="$PROJECT_DIR$/../bytebank-herdado-conta/src/br/com/bytebank/banco/test/TesteSaca.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bytebank-herdado-conta/src/teste/TesteTributaveis.java" beforeDir="false" afterPath="$PROJECT_DIR$/../bytebank-herdado-conta/src/br/com/bytebank/banco/test/TesteTributaveis.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bytebank-herdado-conta/src/br/com/bytebank/banco/test/TestaString.java" beforeDir="false" afterPath="$PROJECT_DIR$/../bytebank-herdado-conta/src/br/com/bytebank/banco/test/TestaString.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -63,8 +51,8 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="ProjectPane" />
       <pane id="Scope" />
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -107,7 +95,7 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14978679" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15138593" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
