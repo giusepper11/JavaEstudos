@@ -34,6 +34,7 @@ public abstract class Conta {
 
     /**
      * Valor precisa ser maior que o saldo
+     *
      * @param valor
      * @throws SaldoInsuficienteException
      */
@@ -92,6 +93,17 @@ public abstract class Conta {
 
     public static int getTotal() {
         return Conta.total;
+    }
+
+    @Override
+    public boolean equals(Object conta) {
+
+        Conta outra = (Conta) conta;
+
+        if (this.getAgencia() == outra.getAgencia() & this.getNumero() == outra.getNumero()) {
+            return true;
+        }
+        return false;
     }
 
 }
