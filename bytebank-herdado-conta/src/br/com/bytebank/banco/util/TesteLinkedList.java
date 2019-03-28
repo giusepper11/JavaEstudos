@@ -24,7 +24,7 @@ public class TesteLinkedList {
         System.out.println(lista.size());
 
 
-        Conta ref = (Conta) lista.get(0);
+        Conta ref = lista.get(0);
         System.out.println(ref.getNumero());
 
         lista.remove(0);
